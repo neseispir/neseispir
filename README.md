@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 FULL STACK DEVELOPER
 --------------------
 <div align="center">
-<img src="https://media.giphy.com/media/Wn74RUT0vjnoU98Hnt/giphy.gif" align="center" style="width: 100%" />
+<img src="" align="center" style="width: 100%" />
 </div>
 
 I am NEŞE, Full Stack Developer;
