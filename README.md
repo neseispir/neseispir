@@ -5,7 +5,8 @@ FULL STACK DEVELOPER
 --------------------
 
 
-I am NEŞE, Full Stack Developer;
+I am NEŞE,
+Full Stack Developer;
 
 *   🌍  I'm based in Turkey
 *   ✉️  You can contact me at [neseispir2@gmail.com](mailto:neseispir2@gmail.com)
