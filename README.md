@@ -11,6 +11,7 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjk4ODJlNTNiYzE4ZjY3YTMxNjcyM2VmZTllNzI4OTY4ZjI2ZTQxOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/IcZhFmufozDCij3p22/giphy.gif" align="center" style="width: 80%"  />
 </div>
 </p>
+
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
