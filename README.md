@@ -1,13 +1,8 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=300&size=34&pause=1000&color=9577FF&center=true&width=435&lines=Hi%2C+I'm+Nese" alt="Typing SVG" /></a>
-  <div align="center">
-  <a href="https://www.linkedin.com/in/neseispir/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a>
-  <div/>
-    <br/>
-    <div align="center">
+
+<div align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjk4ODJlNTNiYzE4ZjY3YTMxNjcyM2VmZTllNzI4OTY4ZjI2ZTQxOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/IcZhFmufozDCij3p22/giphy.gif" align="center" style="width: 80%"  />
 </div>
 </p>
