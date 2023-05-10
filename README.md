@@ -14,7 +14,7 @@
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
-```yaml
+```ruby
 name: Neşe İspir
 located_in: Istanbul/Turkiye
 current_job: Frontend Developer
