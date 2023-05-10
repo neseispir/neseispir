@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=300&size=34&pause=1000&color=9577FF&center=true&width=435&lines=Hi%2C+i'm+Nese" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=300&size=34&pause=1000&color=9577FF&center=true&width=435&lines=Hi%2C+I'm+Nese" alt="Typing SVG" /></a>
   <div align="center">
   <a href="https://www.linkedin.com/in/neseispir/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
