@@ -19,6 +19,8 @@ name: Neşe İspir
 located_in: Istanbul/Turkiye
 current_job: Frontend Developer
 company: Meta World Bilişim/Yazılım
+
+
 fields_of_interests:
   [
     "Web Development",
@@ -26,10 +28,13 @@ fields_of_interests:
     "React Development"
     "UI/UX",
   ]
+  
+  
 currently_learning: ["Wordpress, Node.Js and React Native"]
 2023 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
 hobbies: ["Outdoor Sports", "Cinema", "Sightseeing", "Art", "Comedy"]
 ```
+
   ---  
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
